@@ -1,2 +1,2 @@
 # EXALMAR-COMPRAS-AUTOMATIZACION
-AUTOMATIZACIONES EN COMPRAS - REDUCCION DE CARGA OPERATIVA
+Este proyecto consiste en la reducción de carga operativa mediante la implementación de Scripts y Macros conectados a Outlook y SAP/R3 con la cual se puede gestionar Solpeds de manera mas eficiente viendo trazabilidad de compras, consultas y reclamos. Asimismo se automatiza reportería que se envía periodicamente a los gestores de compra, supervisores y jefes con la finalidad de llevar un mayor control sobre el proceso y su evolucion a lo largo de los meses. Tambien tiene la finalidad de enviar correos automatizados por proveedor para indicar detalle de entregas pendientes y facturación.
